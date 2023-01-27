@@ -1,9 +1,13 @@
 import React from 'react'
 import Navbar from '../Components/Navbar'
+import Carousel from '../Widgets/Carousel'
 
 const Pages = () => {
   return (
-    <Navbar />
+    <div>
+      <Navbar />
+      <Carousel />
+    </div>
   )
 }
 
