@@ -1,16 +1,19 @@
 {
   "files": {
     "main.css": "/builderreplica/static/css/main.c01f45ee.css",
-    "main.js": "/builderreplica/static/js/main.13344f92.js",
+    "main.js": "/builderreplica/static/js/main.2dd63618.js",
     "static/js/787.2c7f095a.chunk.js": "/builderreplica/static/js/787.2c7f095a.chunk.js",
+    "static/media/carousel_third.png": "/builderreplica/static/media/carousel_third.57a273942fb51607b3e8.png",
+    "static/media/carousel_second.png": "/builderreplica/static/media/carousel_second.b13f7341864c73c296fe.png",
+    "static/media/carousel_first.png": "/builderreplica/static/media/carousel_first.3b421db9f3911f095ea2.png",
     "static/media/logo.jpg": "/builderreplica/static/media/logo.635ba2d91ca9fb50612c.jpg",
     "index.html": "/builderreplica/index.html",
     "main.c01f45ee.css.map": "/builderreplica/static/css/main.c01f45ee.css.map",
-    "main.13344f92.js.map": "/builderreplica/static/js/main.13344f92.js.map",
+    "main.2dd63618.js.map": "/builderreplica/static/js/main.2dd63618.js.map",
     "787.2c7f095a.chunk.js.map": "/builderreplica/static/js/787.2c7f095a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c01f45ee.css",
-    "static/js/main.13344f92.js"
+    "static/js/main.2dd63618.js"
   ]
 }
