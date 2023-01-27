@@ -10,7 +10,7 @@ const SectionIntro = () => {
             <div className="introContainer">
                 <div className="textsSection w_50">
                     <div className="upperSec">
-                        <h1>{home.topHeading}</h1>
+                        <h1 style={{borderBottom:'5px solid #355c7d'}}>{home.topHeading}</h1>
                         <h3>{home.secondHeading}</h3>
                         <p>{home.introPara}</p>
                     </div>

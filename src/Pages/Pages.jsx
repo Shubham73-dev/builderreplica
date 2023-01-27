@@ -2,6 +2,8 @@ import React from 'react'
 import Navbar from '../Components/Navbar'
 import Carousel from '../Widgets/Carousel'
 import SectionIntro from '../Components/Home/SectionIntro'
+import SectionCompleted from '../Components/Home/SectionCompleted'
+import '../Styles/sections_wrapper.css'
 
 
 const Pages = () => {
@@ -9,7 +11,10 @@ const Pages = () => {
     <div>
       <Navbar />
       <Carousel />
-      <SectionIntro />
+      <div className="sections_wrapper">
+        <SectionIntro />
+        <SectionCompleted />
+      </div>
     </div>
   )
 }

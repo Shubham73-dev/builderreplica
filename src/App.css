@@ -1,4 +1,9 @@
 ::selection {
-  background-color: #355c7d; /* orange */
+  background-color: #355c7d; 
   color: white;
+}
+
+.bottomDivider{
+  display: inline-block;
+  border-bottom: 5px solid #355c7d;
 }

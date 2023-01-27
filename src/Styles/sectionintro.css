@@ -2,7 +2,7 @@
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
-  padding: 4rem;
+  margin-top: 2rem;
 }
 
 .intro .introContainer .textsSection {
@@ -50,7 +50,6 @@
         -ms-flex-direction: column;
             flex-direction: column;
     row-gap: 1rem !important;
-    padding: 1rem !important;
   }
   .introContainer .w_50 {
     width: 100% !important;
