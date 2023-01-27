@@ -1,4 +1,7 @@
 .SectionCompleted_wrapper .cardsContainer {
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
   -webkit-column-gap: 1rem;
           column-gap: 1rem;
   row-gap: 1rem;
