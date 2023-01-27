@@ -1,6 +1,9 @@
 import React from 'react'
-import image from '../Assets/images/logo.jpg';
 import '../Styles/carousel.css'
+import carousel_first from '../Assets/images/carousel_first.png';
+import carousel_second from '../Assets/images/carousel_second.png';
+import carousel_third from '../Assets/images/carousel_third.png';
+
 
 
 const Carousel = () => {
@@ -14,13 +17,13 @@ const Carousel = () => {
                 </div>
                 <div class="carousel-inner">
                     <div class="carousel-item active">
-                        <img src="https://images.thedirect.com/media/article_full/marvel-studios-movies-ranked-mcu_7nvYBvz.jpg" alt="marvel"/>
+                        <img src={carousel_first} alt="marvel"/>
                     </div>
                     <div class="carousel-item">
-                        <img src="https://www.getdroidtips.com/wp-content/uploads/2022/12/All-Upcoming-Marvel-Movies-and-Series-2023.webp" alt="" />
+                        <img src={carousel_second} alt="" />
                     </div>
                     <div class="carousel-item">
-                        <img src="https://comic-cons.xyz/wp-content/uploads/marvel-celebrates-10-years.jpg" alt="" />
+                        <img src={carousel_third} alt="" />
                     </div>
                 </div>
                 <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="prev">
