@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/builderreplica/static/css/main.2f5a52bc.css",
-    "main.js": "/builderreplica/static/js/main.b7e59ad2.js",
+    "main.css": "/builderreplica/static/css/main.c01f45ee.css",
+    "main.js": "/builderreplica/static/js/main.13344f92.js",
     "static/js/787.2c7f095a.chunk.js": "/builderreplica/static/js/787.2c7f095a.chunk.js",
     "static/media/logo.jpg": "/builderreplica/static/media/logo.635ba2d91ca9fb50612c.jpg",
     "index.html": "/builderreplica/index.html",
-    "main.2f5a52bc.css.map": "/builderreplica/static/css/main.2f5a52bc.css.map",
-    "main.b7e59ad2.js.map": "/builderreplica/static/js/main.b7e59ad2.js.map",
+    "main.c01f45ee.css.map": "/builderreplica/static/css/main.c01f45ee.css.map",
+    "main.13344f92.js.map": "/builderreplica/static/js/main.13344f92.js.map",
     "787.2c7f095a.chunk.js.map": "/builderreplica/static/js/787.2c7f095a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2f5a52bc.css",
-    "static/js/main.b7e59ad2.js"
+    "static/css/main.c01f45ee.css",
+    "static/js/main.13344f92.js"
   ]
 }
