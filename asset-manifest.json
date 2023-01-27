@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/builderreplica/static/css/main.5ad626ad.css",
+    "main.css": "/builderreplica/static/css/main.6edaf3fa.css",
     "main.js": "/builderreplica/static/js/main.953a6e2a.js",
     "static/js/787.2c7f095a.chunk.js": "/builderreplica/static/js/787.2c7f095a.chunk.js",
     "static/media/carousel_second.png": "/builderreplica/static/media/carousel_second.8cb8667efe3ba3d932be.png",
@@ -10,12 +10,12 @@
     "static/media/construction.png": "/builderreplica/static/media/construction.3b83ab6fd7ff09bcc387.png",
     "static/media/skyscraper.png": "/builderreplica/static/media/skyscraper.fa6dc5e19b68f7a27e29.png",
     "index.html": "/builderreplica/index.html",
-    "main.5ad626ad.css.map": "/builderreplica/static/css/main.5ad626ad.css.map",
+    "main.6edaf3fa.css.map": "/builderreplica/static/css/main.6edaf3fa.css.map",
     "main.953a6e2a.js.map": "/builderreplica/static/js/main.953a6e2a.js.map",
     "787.2c7f095a.chunk.js.map": "/builderreplica/static/js/787.2c7f095a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5ad626ad.css",
+    "static/css/main.6edaf3fa.css",
     "static/js/main.953a6e2a.js"
   ]
 }
