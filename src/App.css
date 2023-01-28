@@ -1,3 +1,20 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+body{
+  scroll-behavior: smooth;
+}
+a{
+  text-decoration: none;
+  color: #fff;
+}
+a:hover{
+  color: #fff;
+}
+ul li{
+  list-style-type: none;
+}
 ::selection {
   background-color: #355c7d; 
   color: white;
@@ -6,4 +23,10 @@
 .bottomDivider{
   display: inline-block;
   border-bottom: 5px solid #355c7d;
+}
+
+.center_align{
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }

@@ -1,0 +1,66 @@
+footer{
+    padding: 1rem;
+    color: #fff;
+    background-color: #355c7d;
+    .fl-col{
+        display: flex;
+        flex-direction: column;
+        row-gap: 1rem;
+    }
+    .footer_wrapper{
+        .detailsSection{
+            padding: 1rem 0;
+            border-bottom: 1px solid #fff;
+            .row{
+                column-gap: 1rem;
+                row-gap: 1rem;
+                flex-wrap: nowrap;
+                .aboutContainer{
+                    display: flex;
+                    flex-direction: column;
+                    row-gap: 1rem;
+                    .socialProfiles{
+                        display: flex;
+                        column-gap: 1rem;
+                        .iconsContainer{
+                            cursor: pointer;
+                            padding: 5px;
+                            background-color: white;
+                            color: #355c7d;
+                            border-radius: 50%;
+                        }
+                    }
+                }
+                .topLists{
+                    padding: 0 !important;
+                    margin: 0 !important;
+                }
+            }
+        }
+        .copyRightSection{
+            padding: 1rem;
+            .backToTopBtn{
+                position: absolute;
+                right: 3rem;
+                height: 2rem;
+                width: 3rem;              
+                border: none;
+                border-radius: 6px;
+            }
+        }
+    }
+       
+}
+
+@media (max-width:992px){
+    footer{
+        padding: 2rem;
+        .row{
+            flex-wrap: wrap !important;
+        }
+        .backToTopBtn{
+           right: 1rem !important;
+        }
+    }
+    
+}
