@@ -64,13 +64,21 @@ footer .footer_wrapper .copyRightSection {
   padding: 1rem;
 }
 
-footer .footer_wrapper .copyRightSection .backToTopBtn {
+footer .footer_wrapper .copyRightSection .backToTop {
   position: absolute;
   right: 3rem;
-  height: 2rem;
+}
+
+footer .footer_wrapper .copyRightSection .backToTop .backToTopBtn {
+  height: 3rem;
   width: 3rem;
   border: none;
-  border-radius: 6px;
+  border-radius: 8px;
+}
+
+footer .footer_wrapper .copyRightSection .backToTop .backToTopBtn:hover {
+  background-color: black;
+  color: white;
 }
 
 @media (max-width: 992px) {
@@ -81,7 +89,7 @@ footer .footer_wrapper .copyRightSection .backToTopBtn {
     -ms-flex-wrap: wrap !important;
         flex-wrap: wrap !important;
   }
-  footer .backToTopBtn {
+  footer .backToTop {
     right: 1rem !important;
   }
 }

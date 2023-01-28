@@ -39,14 +39,21 @@ footer{
         }
         .copyRightSection{
             padding: 1rem;
-            .backToTopBtn{
+            .backToTop{
                 position: absolute;
                 right: 3rem;
-                height: 2rem;
-                width: 3rem;              
-                border: none;
-                border-radius: 6px;
+                .backToTopBtn{
+                    height: 3rem;
+                    width: 3rem;              
+                    border: none;
+                    border-radius: 8px;
+                    &:hover{
+                        background-color: black;
+                        color: white;
+                    }
+                }
             }
+            
         }
     }
        
@@ -58,7 +65,7 @@ footer{
         .row{
             flex-wrap: wrap !important;
         }
-        .backToTopBtn{
+        .backToTop{
            right: 1rem !important;
         }
     }
