@@ -31,12 +31,15 @@
 }
 
 @media (max-width:992px){
-    .experienceHeading{
-        font-size: 2.5rem !important;
-        font-weight: normal !important;
-    }
-    .experiencePara{
-        width: 100% !important;
-        font-weight: normal !important;
+    .parallax_wrapper{
+        padding: 5rem 1rem;
+        .experienceHeading{
+            font-size: 2.5rem !important;
+            font-weight: normal !important;
+        }
+        .experiencePara{
+            width: 100% !important;
+            font-weight: normal !important;
+        }
     }
 }
