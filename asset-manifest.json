@@ -1,11 +1,11 @@
 {
   "files": {
-    "main.css": "/builderreplica/static/css/main.8e14f3d9.css",
+    "main.css": "/builderreplica/static/css/main.c7bfadbc.css",
     "main.js": "/builderreplica/static/js/main.6bed3071.js",
     "static/js/787.2c7f095a.chunk.js": "/builderreplica/static/js/787.2c7f095a.chunk.js",
     "static/media/card_5.jpeg": "/builderreplica/static/media/card_5.84f7cd88bba1f027bbb7.jpeg",
-    "static/media/darkParallax.jpg": "/builderreplica/static/media/darkParallax.ba0a14ba67726ed627b4.jpg",
     "static/media/carousel_second.png": "/builderreplica/static/media/carousel_second.8cb8667efe3ba3d932be.png",
+    "static/media/darkParallax.jpg": "/builderreplica/static/media/darkParallax.163976e86a7d1123142c.jpg",
     "static/media/card_4.jpg": "/builderreplica/static/media/card_4.67e6ce6725186d7896e2.jpg",
     "static/media/carousel_third.png": "/builderreplica/static/media/carousel_third.7af9292afe55de325124.png",
     "static/media/carousel_first.png": "/builderreplica/static/media/carousel_first.f9b6ce933021f69da7ca.png",
@@ -17,12 +17,12 @@
     "static/media/skyscraper.png": "/builderreplica/static/media/skyscraper.fa6dc5e19b68f7a27e29.png",
     "static/media/card_2.jpg": "/builderreplica/static/media/card_2.7ec9ccd7b69ac7fd2240.jpg",
     "index.html": "/builderreplica/index.html",
-    "main.8e14f3d9.css.map": "/builderreplica/static/css/main.8e14f3d9.css.map",
+    "main.c7bfadbc.css.map": "/builderreplica/static/css/main.c7bfadbc.css.map",
     "main.6bed3071.js.map": "/builderreplica/static/js/main.6bed3071.js.map",
     "787.2c7f095a.chunk.js.map": "/builderreplica/static/js/787.2c7f095a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.8e14f3d9.css",
+    "static/css/main.c7bfadbc.css",
     "static/js/main.6bed3071.js"
   ]
 }
