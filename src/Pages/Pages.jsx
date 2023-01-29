@@ -3,6 +3,7 @@ import Navbar from '../Components/Navbar'
 import Carousel from '../Widgets/Carousel'
 import SectionIntro from '../Components/Home/SectionIntro'
 import SectionCompleted from '../Components/Home/SectionCompleted'
+import SectionParallax from '../Components/Home/SectionParallax'
 import Footer from '../Components/Footer'
 import '../Styles/sections_wrapper.css'
 
@@ -16,6 +17,7 @@ const Pages = () => {
         <SectionIntro />
         <SectionCompleted />
       </div>
+      <SectionParallax />
       <Footer />
     </div>
   )

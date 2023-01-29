@@ -1,0 +1,52 @@
+.parallax_wrapper {
+  padding: 5rem;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  row-gap: 2rem;
+  background-image: url("../Assets/images/Completed-projects/darkParallax.jpg");
+  background-position: top center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+.parallax_wrapper .experienceHeading {
+  color: #fff;
+  font-size: 3.5rem;
+  letter-spacing: 2px;
+  text-align: center;
+  font-weight: bold;
+}
+
+.parallax_wrapper .experiencePara {
+  color: #fff;
+  width: 80%;
+  text-align: center;
+  line-height: 2rem;
+  font-weight: bold;
+}
+
+.parallax_wrapper .btn {
+  width: 10rem !important;
+  height: 3rem !important;
+}
+
+@media (max-width: 992px) {
+  .experienceHeading {
+    font-size: 2.5rem !important;
+    font-weight: normal !important;
+  }
+  .experiencePara {
+    width: 100% !important;
+    font-weight: normal !important;
+  }
+}
+/*# sourceMappingURL=sectionparallax.css.map */

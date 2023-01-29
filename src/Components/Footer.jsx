@@ -54,7 +54,7 @@ const Footer = () => {
                 <div className="copyRightSection center_align">
                     <span>Copyright © 2023 Our Structures</span>
                     <a href="#" style={{display:'block'}} className='backToTop'>
-                        <button  title='Back to top' className='backToTopBtn center_align'><i class="fa-solid fa-angle-up"></i></button>
+                        <button  title='Back to top' className='backToTopBtn center_align'><i class="fa-solid fa-angle-up"></i></button>                       
                     </a>
                 </div>
             </div>
