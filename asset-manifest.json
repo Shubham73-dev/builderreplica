@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/builderreplica/static/css/main.c7bfadbc.css",
-    "main.js": "/builderreplica/static/js/main.6bed3071.js",
+    "main.css": "/builderreplica/static/css/main.68eb6af6.css",
+    "main.js": "/builderreplica/static/js/main.5861378c.js",
     "static/js/787.2c7f095a.chunk.js": "/builderreplica/static/js/787.2c7f095a.chunk.js",
     "static/media/card_5.jpeg": "/builderreplica/static/media/card_5.84f7cd88bba1f027bbb7.jpeg",
     "static/media/carousel_second.png": "/builderreplica/static/media/carousel_second.8cb8667efe3ba3d932be.png",
@@ -15,14 +15,17 @@
     "static/media/card_1.jpg": "/builderreplica/static/media/card_1.e4a874046726ca282bc2.jpg",
     "static/media/card_7.jpg": "/builderreplica/static/media/card_7.87c826e10e719317d9c5.jpg",
     "static/media/skyscraper.png": "/builderreplica/static/media/skyscraper.fa6dc5e19b68f7a27e29.png",
+    "static/media/testimonials-2.jpg": "/builderreplica/static/media/testimonials-2.51d503adcd7e31499dde.jpg",
+    "static/media/testimonial-image-3.jpg": "/builderreplica/static/media/testimonial-image-3.e445c4405f1ff724b2f1.jpg",
+    "static/media/testimonial-image-1.jpg": "/builderreplica/static/media/testimonial-image-1.2d1359e56a22cddb253a.jpg",
     "static/media/card_2.jpg": "/builderreplica/static/media/card_2.7ec9ccd7b69ac7fd2240.jpg",
     "index.html": "/builderreplica/index.html",
-    "main.c7bfadbc.css.map": "/builderreplica/static/css/main.c7bfadbc.css.map",
-    "main.6bed3071.js.map": "/builderreplica/static/js/main.6bed3071.js.map",
+    "main.68eb6af6.css.map": "/builderreplica/static/css/main.68eb6af6.css.map",
+    "main.5861378c.js.map": "/builderreplica/static/js/main.5861378c.js.map",
     "787.2c7f095a.chunk.js.map": "/builderreplica/static/js/787.2c7f095a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c7bfadbc.css",
-    "static/js/main.6bed3071.js"
+    "static/css/main.68eb6af6.css",
+    "static/js/main.5861378c.js"
   ]
 }
