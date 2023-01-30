@@ -5,7 +5,7 @@ import '../Styles/navbar.css'
 const Navbar = () => {
     return (
         <div>
-            <nav class="navbar navbar-expand-lg navbar-light bg-light">
+            <nav class="navbar navbar-expand-lg navbar-light bg-light fixed-top">
                 <div class="container-fluid">
                     <div class="navbar-brand"><img src={image} alt="" /></div>
                     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">

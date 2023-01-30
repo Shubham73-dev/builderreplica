@@ -31,3 +31,15 @@ ul li{
   justify-content: center;
   align-items: center;
 }
+
+.colFlexProp{
+  display: flex;
+  flex-direction: column;
+}
+
+.colGap{
+  column-gap: 1rem;
+}
+.rowGap{
+  row-gap: 1rem;
+}

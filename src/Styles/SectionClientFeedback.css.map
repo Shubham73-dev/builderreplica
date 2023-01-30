@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAEQ,wBAFgB,CACpB,QAAQ,CACJ,GAAG,CAAA;EACC,MAAM,EAAE,IAAI;CACf;;AAJT,AAOQ,wBAPgB,CAMpB,QAAQ,CACJ,WAAW,CAAA;EACP,SAAS,EAAE,GAAG;CACjB;;AAIT,MAAM,EAAE,SAAS,EAAE,KAAK;EACpB,AACI,QADI,CACJ,WAAW,CAAA;IACP,SAAS,EAAE,eAAe;GAC7B",
+    "sources": [
+        "SectionClientFeedback.scss"
+    ],
+    "names": [],
+    "file": "SectionClientFeedback.css"
+}

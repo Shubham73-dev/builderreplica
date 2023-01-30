@@ -1,0 +1,14 @@
+.clientFeedbackContainer .autoImg img {
+  height: 100%;
+}
+
+.clientFeedbackContainer .colLeft .clientPara {
+  max-width: 75%;
+}
+
+@media (max-width: 992px) {
+  .colLeft .clientPara {
+    min-width: 100% !important;
+  }
+}
+/*# sourceMappingURL=SectionClientFeedback.css.map */
