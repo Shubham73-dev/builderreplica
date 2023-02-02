@@ -12,7 +12,7 @@ const SectionClientFeedback = () => {
             <div className="clientFeedback_wrapper">
                 <div className="clientFeedbackContainer row">
                     <div className="colLeft col-md-6 colFlexProp rowGap autoImg">
-                        <h1>What Our Client Says</h1>
+                        <h1 style={{width:'max-content'}} className='bottomDivider'>What Our Client Says</h1>
                         <p className='clientPara'>{home.clientPara}</p>
                         <Clientcard sourceOfImage={client_1} clientName="Margaret Curtis​" clientDesignation="Real Estate Developer" />                     
                         
