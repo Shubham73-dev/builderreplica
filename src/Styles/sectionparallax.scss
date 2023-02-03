@@ -27,6 +27,12 @@
     .btn{
         width: 10rem !important;
         height: 3rem !important;
+        padding: 0 !important;
+        a{
+            height: 100%;
+            width: 100%;
+            column-gap: 5px;
+        }
     }
 }
 

@@ -6,7 +6,9 @@ nav{
                 max-height: 5rem;
             }
         }
-
+        .nav-link{
+            cursor: pointer;
+        }
         #navbarNavDropdown{
             justify-content: center;
             .navbar-nav{
