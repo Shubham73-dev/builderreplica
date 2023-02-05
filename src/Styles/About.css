@@ -15,9 +15,37 @@
   padding-left: 5%;
 }
 
+.sections_wrapper .sectionCEO .row {
+  row-gap: 2rem;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+}
+
+.sections_wrapper .sectionCEO .row .sectionDivision {
+  width: 45%;
+}
+
+.sections_wrapper .sectionCEO .row .CEO_detail span {
+  letter-spacing: 2px;
+}
+
+.sections_wrapper .sectionCEO .row .CEO_detail p {
+  line-height: 2rem;
+}
+
+.sections_wrapper .partnersDetails .row {
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+}
+
 @media (max-width: 992px) {
-  h1 {
+  .fisrtSection h1 {
     font-size: 2.5rem !important;
+  }
+  .sectionDivision {
+    width: 100% !important;
   }
 }
 /*# sourceMappingURL=About.css.map */

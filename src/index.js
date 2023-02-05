@@ -13,7 +13,7 @@ import "./index.css";
 
 const router = createBrowserRouter([
   {
-    path: "/",
+    path: "/builderreplica",
     element: <Navbar />,
     errorElement: <Error />,
     children: [
@@ -22,7 +22,7 @@ const router = createBrowserRouter([
         element: <Pages />
       },
       {
-        path: "about",
+        path: "/builderreplica/about",
         element: <About />,
       },
     ],

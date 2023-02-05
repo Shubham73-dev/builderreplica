@@ -1,0 +1,22 @@
+.card {
+  cursor: pointer;
+  border: none !important;
+  -webkit-box-shadow: none !important;
+          box-shadow: none !important;
+}
+
+.card .aboutCardImg {
+  height: 14rem;
+  width: 14rem;
+  border-radius: 50%;
+}
+
+@media (max-width: 992px) {
+  .card {
+    width: 100% !important;
+  }
+  .card .aboutCardImg {
+    height: 14rem !important;
+  }
+}
+/*# sourceMappingURL=AboutCard.css.map */

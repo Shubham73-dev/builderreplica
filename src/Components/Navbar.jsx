@@ -15,8 +15,8 @@ const Navbar = () => {
                     </button>
                     <div class="collapse navbar-collapse" id="navbarNavDropdown">
                         <ul class="navbar-nav">
-                            <NavLink to="/"><Tabs tabTitle="Home" /></NavLink>
-                            <NavLink to="about"><Tabs tabTitle="About Us" /></NavLink>
+                            <NavLink to="/builderreplica"><Tabs tabTitle="Home" /></NavLink>
+                            <NavLink to="/builderreplica/about"><Tabs tabTitle="About Us" /></NavLink>
                             <li class="nav-item dropdown">
                                 <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button" data-bs-toggle="dropdown" aria-expanded="false">
                                     Projects
@@ -28,9 +28,10 @@ const Navbar = () => {
                             </li>
                             <Tabs tabTitle="Testimonials" />
                             <Tabs tabTitle="Contact Us" />
-                            <Tabs tabTitle={<i class="socialProfileIcons fa-brands fa-facebook"></i>} />
-                            <Tabs tabTitle={<i class="socialProfileIcons fa-brands fa-twitter"></i>} />
-                            <Tabs tabTitle={<i class="socialProfileIcons fa-brands fa-instagram"></i>} />
+                            <Tabs tabTitle={<a href="https://www.facebook.com/"><i class="socialProfileIcons fa-brands fa-facebook"></i></a>} />
+                            <Tabs tabTitle={<a href="https://twitter.com/"><i class="socialProfileIcons fa-brands fa-twitter"></i></a>} />
+                            <Tabs tabTitle={<a href="https://www.instagram.com/"><i class="socialProfileIcons fa-brands fa-instagram"></i></a>} />
+                            
                         </ul>
                     </div>
                 </div>

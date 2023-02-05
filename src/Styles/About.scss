@@ -12,9 +12,37 @@
         padding-left: 5%;
     }
 }
-
+.sections_wrapper{
+    .sectionCEO{
+        .row{
+            row-gap: 2rem;
+            justify-content: space-between;
+            .sectionDivision{
+                width: 45%;
+            }
+            .CEO_detail{
+                span{
+                    letter-spacing: 2px;
+                }
+                p{
+                    line-height: 2rem;
+                }
+            }
+        }
+    }
+    .partnersDetails{
+        .row{
+            justify-content: center;
+        }
+    }    
+}
 @media (max-width:992px){
-    h1{
-        font-size: 2.5rem !important;
+    .fisrtSection{
+        h1{
+            font-size: 2.5rem !important;
+        }
+    }
+    .sectionDivision{
+        width: 100% !important;
     }
 }
