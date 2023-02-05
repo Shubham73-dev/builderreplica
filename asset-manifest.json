@@ -1,8 +1,7 @@
 {
   "files": {
-    "main.css": "/builderreplica/static/css/main.b545911b.css",
-    "main.js": "/builderreplica/static/js/main.29829b41.js",
-    "static/js/787.2c7f095a.chunk.js": "/builderreplica/static/js/787.2c7f095a.chunk.js",
+    "main.css": "/builderreplica/static/css/main.fdcff2d1.css",
+    "main.js": "/builderreplica/static/js/main.6d8b2171.js",
     "static/media/card_5.jpeg": "/builderreplica/static/media/card_5.84f7cd88bba1f027bbb7.jpeg",
     "static/media/carousel_second.png": "/builderreplica/static/media/carousel_second.8cb8667efe3ba3d932be.png",
     "static/media/darkParallax.jpg": "/builderreplica/static/media/darkParallax.163976e86a7d1123142c.jpg",
@@ -12,6 +11,7 @@
     "static/media/logo.jpg": "/builderreplica/static/media/logo.a0b2a32b893b681e04a7.jpg",
     "static/media/card_3.jpg": "/builderreplica/static/media/card_3.77a20ad92944c2ddbe19.jpg",
     "static/media/construction.png": "/builderreplica/static/media/construction.3b83ab6fd7ff09bcc387.png",
+    "static/media/modern-design.jpg": "/builderreplica/static/media/modern-design.4151171d153bfd8502ae.jpg",
     "static/media/card_1.jpg": "/builderreplica/static/media/card_1.e4a874046726ca282bc2.jpg",
     "static/media/card_7.jpg": "/builderreplica/static/media/card_7.87c826e10e719317d9c5.jpg",
     "static/media/skyscraper.png": "/builderreplica/static/media/skyscraper.fa6dc5e19b68f7a27e29.png",
@@ -20,12 +20,11 @@
     "static/media/testimonial-image-1.jpg": "/builderreplica/static/media/testimonial-image-1.2d1359e56a22cddb253a.jpg",
     "static/media/card_2.jpg": "/builderreplica/static/media/card_2.7ec9ccd7b69ac7fd2240.jpg",
     "index.html": "/builderreplica/index.html",
-    "main.b545911b.css.map": "/builderreplica/static/css/main.b545911b.css.map",
-    "main.29829b41.js.map": "/builderreplica/static/js/main.29829b41.js.map",
-    "787.2c7f095a.chunk.js.map": "/builderreplica/static/js/787.2c7f095a.chunk.js.map"
+    "main.fdcff2d1.css.map": "/builderreplica/static/css/main.fdcff2d1.css.map",
+    "main.6d8b2171.js.map": "/builderreplica/static/js/main.6d8b2171.js.map"
   },
   "entrypoints": [
-    "static/css/main.b545911b.css",
-    "static/js/main.29829b41.js"
+    "static/css/main.fdcff2d1.css",
+    "static/js/main.6d8b2171.js"
   ]
 }
