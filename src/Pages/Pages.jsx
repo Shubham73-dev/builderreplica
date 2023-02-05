@@ -12,7 +12,6 @@ import '../Styles/sections_wrapper.css'
 const Pages = () => {
   return (
     <div>
-      <Navbar />
       <Carousel />
       <div className="sections_wrapper">
         <SectionIntro />

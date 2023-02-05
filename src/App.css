@@ -43,3 +43,6 @@ ul li{
 .rowGap{
   row-gap: 1rem;
 }
+.active>li>a{
+  color: #000000 !important;
+}

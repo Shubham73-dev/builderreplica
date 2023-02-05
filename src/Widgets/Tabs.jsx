@@ -1,11 +1,10 @@
 import React from 'react'
 
-const Tabs = ({hyperRef,tabTitle,isActive}) => {
-    const tabClass = `nav-link ${isActive}`
+const Tabs = ({hyperRef,tabTitle}) => {
     return (
         <>
             <li class="nav-item">
-                <a className={tabClass} aria-current="page" href={hyperRef}>{tabTitle}</a>
+                <a className="nav-link" aria-current="page" href={hyperRef}>{tabTitle}</a>
             </li>
         </>
     )
