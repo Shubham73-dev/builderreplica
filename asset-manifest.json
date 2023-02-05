@@ -1,17 +1,23 @@
 {
   "files": {
-    "main.css": "/builderreplica/static/css/main.fdcff2d1.css",
-    "main.js": "/builderreplica/static/js/main.6d8b2171.js",
+    "main.css": "/builderreplica/static/css/main.456b16a4.css",
+    "main.js": "/builderreplica/static/js/main.4de40325.js",
     "static/media/card_5.jpeg": "/builderreplica/static/media/card_5.84f7cd88bba1f027bbb7.jpeg",
+    "static/media/about_1.jpg": "/builderreplica/static/media/about_1.4470f2726422ca00b486.jpg",
+    "static/media/about_3.jpg": "/builderreplica/static/media/about_3.3d09ff3da53a7f4afffc.jpg",
     "static/media/carousel_second.png": "/builderreplica/static/media/carousel_second.8cb8667efe3ba3d932be.png",
     "static/media/darkParallax.jpg": "/builderreplica/static/media/darkParallax.163976e86a7d1123142c.jpg",
+    "static/media/about_6.jpg": "/builderreplica/static/media/about_6.5a1a54599e0b5a234b5f.jpg",
     "static/media/card_4.jpg": "/builderreplica/static/media/card_4.67e6ce6725186d7896e2.jpg",
+    "static/media/about_5.jpg": "/builderreplica/static/media/about_5.dc67bdcefb68694aac61.jpg",
     "static/media/carousel_third.png": "/builderreplica/static/media/carousel_third.7af9292afe55de325124.png",
     "static/media/carousel_first.png": "/builderreplica/static/media/carousel_first.f9b6ce933021f69da7ca.png",
     "static/media/logo.jpg": "/builderreplica/static/media/logo.a0b2a32b893b681e04a7.jpg",
     "static/media/card_3.jpg": "/builderreplica/static/media/card_3.77a20ad92944c2ddbe19.jpg",
     "static/media/construction.png": "/builderreplica/static/media/construction.3b83ab6fd7ff09bcc387.png",
+    "static/media/about_2.jpg": "/builderreplica/static/media/about_2.4f1cc4b247c05c76d7de.jpg",
     "static/media/modern-design.jpg": "/builderreplica/static/media/modern-design.4151171d153bfd8502ae.jpg",
+    "static/media/CEO_img.jpg": "/builderreplica/static/media/CEO_img.728e847ab2e8eac6f774.jpg",
     "static/media/card_1.jpg": "/builderreplica/static/media/card_1.e4a874046726ca282bc2.jpg",
     "static/media/card_7.jpg": "/builderreplica/static/media/card_7.87c826e10e719317d9c5.jpg",
     "static/media/skyscraper.png": "/builderreplica/static/media/skyscraper.fa6dc5e19b68f7a27e29.png",
@@ -20,11 +26,11 @@
     "static/media/testimonial-image-1.jpg": "/builderreplica/static/media/testimonial-image-1.2d1359e56a22cddb253a.jpg",
     "static/media/card_2.jpg": "/builderreplica/static/media/card_2.7ec9ccd7b69ac7fd2240.jpg",
     "index.html": "/builderreplica/index.html",
-    "main.fdcff2d1.css.map": "/builderreplica/static/css/main.fdcff2d1.css.map",
-    "main.6d8b2171.js.map": "/builderreplica/static/js/main.6d8b2171.js.map"
+    "main.456b16a4.css.map": "/builderreplica/static/css/main.456b16a4.css.map",
+    "main.4de40325.js.map": "/builderreplica/static/js/main.4de40325.js.map"
   },
   "entrypoints": [
-    "static/css/main.fdcff2d1.css",
-    "static/js/main.6d8b2171.js"
+    "static/css/main.456b16a4.css",
+    "static/js/main.4de40325.js"
   ]
 }
