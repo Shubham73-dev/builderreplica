@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/builderreplica/static/css/main.14a24348.css",
-    "main.js": "/builderreplica/static/js/main.1342bfd3.js",
+    "main.css": "/builderreplica/static/css/main.eafbd33a.css",
+    "main.js": "/builderreplica/static/js/main.128f9db9.js",
     "static/media/card_5.jpeg": "/builderreplica/static/media/card_5.84f7cd88bba1f027bbb7.jpeg",
     "static/media/about_1.jpg": "/builderreplica/static/media/about_1.4470f2726422ca00b486.jpg",
     "static/media/about_3.jpg": "/builderreplica/static/media/about_3.3d09ff3da53a7f4afffc.jpg",
@@ -24,13 +24,14 @@
     "static/media/testimonials-2.jpg": "/builderreplica/static/media/testimonials-2.51d503adcd7e31499dde.jpg",
     "static/media/testimonial-image-3.jpg": "/builderreplica/static/media/testimonial-image-3.e445c4405f1ff724b2f1.jpg",
     "static/media/testimonial-image-1.jpg": "/builderreplica/static/media/testimonial-image-1.2d1359e56a22cddb253a.jpg",
+    "static/media/contactusBanner.png": "/builderreplica/static/media/contactusBanner.33a30d6ffa10204cbe1b.png",
     "static/media/card_2.jpg": "/builderreplica/static/media/card_2.7ec9ccd7b69ac7fd2240.jpg",
     "index.html": "/builderreplica/index.html",
-    "main.14a24348.css.map": "/builderreplica/static/css/main.14a24348.css.map",
-    "main.1342bfd3.js.map": "/builderreplica/static/js/main.1342bfd3.js.map"
+    "main.eafbd33a.css.map": "/builderreplica/static/css/main.eafbd33a.css.map",
+    "main.128f9db9.js.map": "/builderreplica/static/js/main.128f9db9.js.map"
   },
   "entrypoints": [
-    "static/css/main.14a24348.css",
-    "static/js/main.1342bfd3.js"
+    "static/css/main.eafbd33a.css",
+    "static/js/main.128f9db9.js"
   ]
 }
