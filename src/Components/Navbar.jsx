@@ -27,7 +27,8 @@ const Navbar = () => {
                                 </ul>
                             </li>
                             <NavLink to="testimonials"><Tabs tabTitle="Testimonials" /></NavLink>
-                            <Tabs tabTitle="Contact Us" />
+                            <NavLink to="contact"><Tabs tabTitle="Contact Us" /></NavLink>
+                            
                             <Tabs tabTitle={<a href="https://www.facebook.com/"><i class="socialProfileIcons fa-brands fa-facebook"></i></a>} />
                             <Tabs tabTitle={<a href="https://twitter.com/"><i class="socialProfileIcons fa-brands fa-twitter"></i></a>} />
                             <Tabs tabTitle={<a href="https://www.instagram.com/"><i class="socialProfileIcons fa-brands fa-instagram"></i></a>} />

@@ -4,8 +4,8 @@ import '../Styles/AboutCard.css'
 const AboutCard = ({ aboutImg, aboutTitle = 'card title', aboutDesignation = 'lorem ipsum' }) => {
     return (
         <>
-            <div class="card" style={{ width: '18rem' }} >
-                <div className="aboutCardContainer center_align">
+            <div class="card aboutCardContainer" style={{ width: '18rem' }} >
+                <div className="center_align">
                     <img src={aboutImg} class="aboutCardImg card-img-top" alt="" />
                 </div>
                 <div class="card-body">

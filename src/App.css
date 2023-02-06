@@ -23,7 +23,9 @@ ul li{
   background-color: #355c7d; 
   color: white;
 }
-
+.bottomMargin{
+  margin-bottom: 2rem;
+}
 .bottomDivider{
   display: inline-block;
   border-bottom: 5px solid #355c7d;

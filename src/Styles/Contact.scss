@@ -1,0 +1,79 @@
+.firstSection {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),url('../Assets/images/contactusBanner.png');
+    padding: 240px 0px 160px 0px;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    h1{
+        color: white;
+        font-size: 3.5rem;
+        font-weight: bold;
+        letter-spacing: 2px;
+        padding-left: 5%;
+    }
+}
+.sections_wrapper{
+    .formContainer{
+        .btn{
+            margin-top: 2rem !important;
+        }
+    }
+    .contactInfo{
+        .colSection{
+            display: flex;
+            column-gap: 1rem;
+            .iconContain{
+                border-radius: 50%;
+                background-color: pink;
+                height: 3rem;
+                width: 3rem;
+                i{
+                    font-size: 22px;
+                    color: #355c7d;
+                }
+            }
+        }
+        .cardFooterContainer{
+            .socialIconsContainer{
+                display: flex;
+                column-gap: 1rem;
+            }
+            .iconContain{
+                border-radius: 50%;
+                background-color: #355c7d;
+                color: white;
+                height: 2rem;
+                width: 2rem;
+                i{
+                    font-size: 17px;
+                }
+            }
+        }  
+    }
+
+}
+
+@media (max-width:992px){
+    .contactDetails{
+        row-gap: 2rem;
+    }
+    .colSection{
+        flex-direction: column;
+        align-items: center;
+        row-gap: 1rem;
+        .mailSection{
+            h5{
+                text-align: center;
+            }
+            p{
+                text-align: center;
+            }
+        }       
+    }
+    .cardFooterContainer{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        margin-bottom: 2rem;
+    }
+}

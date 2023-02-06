@@ -1,11 +1,11 @@
-.card {
+.aboutCardContainer {
   cursor: pointer;
   border: none !important;
   -webkit-box-shadow: none !important;
           box-shadow: none !important;
 }
 
-.card .aboutCardImg {
+.aboutCardContainer .aboutCardImg {
   height: 14rem;
   width: 14rem;
   border-radius: 50%;

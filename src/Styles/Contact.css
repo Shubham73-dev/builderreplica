@@ -1,0 +1,96 @@
+.firstSection {
+  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.5)), to(rgba(0, 0, 0, 0.5))), url("../Assets/images/contactusBanner.png");
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../Assets/images/contactusBanner.png");
+  padding: 240px 0px 160px 0px;
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.firstSection h1 {
+  color: white;
+  font-size: 3.5rem;
+  font-weight: bold;
+  letter-spacing: 2px;
+  padding-left: 5%;
+}
+
+.sections_wrapper .formContainer .btn {
+  margin-top: 2rem !important;
+}
+
+.sections_wrapper .contactInfo .colSection {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-column-gap: 1rem;
+          column-gap: 1rem;
+}
+
+.sections_wrapper .contactInfo .colSection .iconContain {
+  border-radius: 50%;
+  background-color: pink;
+  height: 3rem;
+  width: 3rem;
+}
+
+.sections_wrapper .contactInfo .colSection .iconContain i {
+  font-size: 22px;
+  color: #355c7d;
+}
+
+.sections_wrapper .contactInfo .cardFooterContainer .socialIconsContainer {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-column-gap: 1rem;
+          column-gap: 1rem;
+}
+
+.sections_wrapper .contactInfo .cardFooterContainer .iconContain {
+  border-radius: 50%;
+  background-color: #355c7d;
+  color: white;
+  height: 2rem;
+  width: 2rem;
+}
+
+.sections_wrapper .contactInfo .cardFooterContainer .iconContain i {
+  font-size: 17px;
+}
+
+@media (max-width: 992px) {
+  .contactDetails {
+    row-gap: 2rem;
+  }
+  .colSection {
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+            flex-direction: column;
+    -webkit-box-align: center;
+        -ms-flex-align: center;
+            align-items: center;
+    row-gap: 1rem;
+  }
+  .colSection .mailSection h5 {
+    text-align: center;
+  }
+  .colSection .mailSection p {
+    text-align: center;
+  }
+  .cardFooterContainer {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+            flex-direction: column;
+    -webkit-box-align: center;
+        -ms-flex-align: center;
+            align-items: center;
+    margin-bottom: 2rem;
+  }
+}
+/*# sourceMappingURL=Contact.css.map */

@@ -5,6 +5,7 @@ import Pages from "./Pages/Pages";
 import About from "./Components/About-us/About";
 import Error from "./Components/Error";
 import Testimonials from "./Components/Testimonials";
+import Contact from "./Components/Contact";
 import './App.css';
 import {
   createBrowserRouter,
@@ -29,6 +30,10 @@ const router = createBrowserRouter([
       {
         path: "testimonials",
         element: <Testimonials />,
+      },
+      {
+        path: "contact",
+        element: <Contact />,
       },
     ],
   },
