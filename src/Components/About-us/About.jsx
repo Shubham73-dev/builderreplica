@@ -1,6 +1,6 @@
 import React from 'react'
 import '../../Styles/About.css'
-import Footer from '../../Components/Footer'
+import Footer from '../Footer'
 import ceo from '../../Assets/images/about/CEO_img.jpg'
 import AboutCard from '../../Widgets/AboutCard'
 import about_1 from '../../Assets/images/about/about_1.jpg'

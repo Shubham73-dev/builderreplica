@@ -16,7 +16,7 @@ const Navbar = () => {
                     <div class="collapse navbar-collapse" id="navbarNavDropdown">
                         <ul class="navbar-nav">
                             <NavLink to="/builderreplica"><Tabs tabTitle="Home" /></NavLink>
-                            <NavLink to="/builderreplica/about"><Tabs tabTitle="About Us" /></NavLink>
+                            <NavLink to="about"><Tabs tabTitle="About Us" /></NavLink>
                             <li class="nav-item dropdown">
                                 <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button" data-bs-toggle="dropdown" aria-expanded="false">
                                     Projects
@@ -26,7 +26,7 @@ const Navbar = () => {
                                     <li><a class="dropdown-item" href="#">Completed Projects</a></li>
                                 </ul>
                             </li>
-                            <Tabs tabTitle="Testimonials" />
+                            <NavLink to="testimonials"><Tabs tabTitle="Testimonials" /></NavLink>
                             <Tabs tabTitle="Contact Us" />
                             <Tabs tabTitle={<a href="https://www.facebook.com/"><i class="socialProfileIcons fa-brands fa-facebook"></i></a>} />
                             <Tabs tabTitle={<a href="https://twitter.com/"><i class="socialProfileIcons fa-brands fa-twitter"></i></a>} />

@@ -4,6 +4,7 @@ import Navbar from "./Components/Navbar";
 import Pages from "./Pages/Pages";
 import About from "./Components/About-us/About";
 import Error from "./Components/Error";
+import Testimonials from "./Components/Testimonials";
 import './App.css';
 import {
   createBrowserRouter,
@@ -22,8 +23,12 @@ const router = createBrowserRouter([
         element: <Pages />
       },
       {
-        path: "/builderreplica/about",
+        path: "about",
         element: <About />,
+      },
+      {
+        path: "testimonials",
+        element: <Testimonials />,
       },
     ],
   },
